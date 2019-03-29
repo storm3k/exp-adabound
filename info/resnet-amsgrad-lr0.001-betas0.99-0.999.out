@@ -1,0 +1,846 @@
+==> Preparing data..
+Files already downloaded and verified
+Files already downloaded and verified
+==> Building model..
+
+Epoch: 0
+train acc 36.558
+ test acc 46.390
+Saving..
+
+Epoch: 1
+train acc 51.004
+ test acc 54.990
+Saving..
+
+Epoch: 2
+train acc 60.492
+ test acc 63.340
+Saving..
+
+Epoch: 3
+train acc 65.986
+ test acc 64.670
+Saving..
+
+Epoch: 4
+train acc 70.980
+ test acc 72.990
+Saving..
+
+Epoch: 5
+train acc 74.528
+ test acc 74.310
+Saving..
+
+Epoch: 6
+train acc 77.720
+ test acc 79.390
+Saving..
+
+Epoch: 7
+train acc 79.904
+ test acc 77.990
+
+Epoch: 8
+train acc 81.524
+ test acc 82.060
+Saving..
+
+Epoch: 9
+train acc 83.090
+ test acc 81.440
+
+Epoch: 10
+train acc 84.460
+ test acc 82.820
+Saving..
+
+Epoch: 11
+train acc 85.244
+ test acc 84.180
+Saving..
+
+Epoch: 12
+train acc 86.180
+ test acc 83.830
+
+Epoch: 13
+train acc 86.232
+ test acc 84.300
+Saving..
+
+Epoch: 14
+train acc 86.846
+ test acc 84.990
+Saving..
+
+Epoch: 15
+train acc 87.386
+ test acc 83.650
+
+Epoch: 16
+train acc 88.170
+ test acc 85.330
+Saving..
+
+Epoch: 17
+train acc 88.298
+ test acc 86.530
+Saving..
+
+Epoch: 18
+train acc 88.680
+ test acc 86.340
+
+Epoch: 19
+train acc 88.854
+ test acc 86.650
+Saving..
+
+Epoch: 20
+train acc 89.520
+ test acc 87.490
+Saving..
+
+Epoch: 21
+train acc 89.660
+ test acc 86.410
+
+Epoch: 22
+train acc 89.820
+ test acc 87.610
+Saving..
+
+Epoch: 23
+train acc 89.840
+ test acc 87.390
+
+Epoch: 24
+train acc 89.920
+ test acc 88.080
+Saving..
+
+Epoch: 25
+train acc 90.558
+ test acc 87.960
+
+Epoch: 26
+train acc 90.738
+ test acc 88.810
+Saving..
+
+Epoch: 27
+train acc 90.876
+ test acc 88.320
+
+Epoch: 28
+train acc 90.538
+ test acc 88.180
+
+Epoch: 29
+train acc 90.944
+ test acc 87.930
+
+Epoch: 30
+train acc 90.984
+ test acc 88.960
+Saving..
+
+Epoch: 31
+train acc 91.306
+ test acc 88.410
+
+Epoch: 32
+train acc 91.362
+ test acc 88.290
+
+Epoch: 33
+train acc 91.150
+ test acc 87.030
+
+Epoch: 34
+train acc 91.304
+ test acc 89.060
+Saving..
+
+Epoch: 35
+train acc 91.614
+ test acc 88.160
+
+Epoch: 36
+train acc 91.576
+ test acc 89.020
+
+Epoch: 37
+train acc 91.890
+ test acc 89.200
+Saving..
+
+Epoch: 38
+train acc 91.730
+ test acc 88.210
+
+Epoch: 39
+train acc 92.004
+ test acc 88.360
+
+Epoch: 40
+train acc 91.742
+ test acc 89.030
+
+Epoch: 41
+train acc 92.024
+ test acc 88.260
+
+Epoch: 42
+train acc 91.958
+ test acc 89.450
+Saving..
+
+Epoch: 43
+train acc 92.158
+ test acc 89.180
+
+Epoch: 44
+train acc 92.302
+ test acc 89.010
+
+Epoch: 45
+train acc 92.234
+ test acc 88.080
+
+Epoch: 46
+train acc 92.056
+ test acc 89.600
+Saving..
+
+Epoch: 47
+train acc 92.450
+ test acc 89.300
+
+Epoch: 48
+train acc 92.490
+ test acc 89.630
+Saving..
+
+Epoch: 49
+train acc 92.378
+ test acc 89.000
+
+Epoch: 50
+train acc 92.474
+ test acc 89.720
+Saving..
+
+Epoch: 51
+train acc 92.242
+ test acc 89.210
+
+Epoch: 52
+train acc 92.488
+ test acc 89.660
+
+Epoch: 53
+train acc 92.830
+ test acc 88.820
+
+Epoch: 54
+train acc 92.712
+ test acc 89.800
+Saving..
+
+Epoch: 55
+train acc 92.788
+ test acc 89.070
+
+Epoch: 56
+train acc 92.748
+ test acc 89.200
+
+Epoch: 57
+train acc 92.744
+ test acc 89.800
+
+Epoch: 58
+train acc 92.938
+ test acc 89.010
+
+Epoch: 59
+train acc 92.624
+ test acc 89.710
+
+Epoch: 60
+train acc 93.008
+ test acc 89.700
+
+Epoch: 61
+train acc 93.044
+ test acc 89.990
+Saving..
+
+Epoch: 62
+train acc 92.838
+ test acc 89.570
+
+Epoch: 63
+train acc 92.880
+ test acc 90.190
+Saving..
+
+Epoch: 64
+train acc 92.988
+ test acc 89.610
+
+Epoch: 65
+train acc 93.010
+ test acc 89.490
+
+Epoch: 66
+train acc 92.972
+ test acc 89.040
+
+Epoch: 67
+train acc 93.136
+ test acc 89.690
+
+Epoch: 68
+train acc 93.246
+ test acc 89.500
+
+Epoch: 69
+train acc 92.878
+ test acc 89.360
+
+Epoch: 70
+train acc 92.978
+ test acc 89.920
+
+Epoch: 71
+train acc 93.182
+ test acc 90.190
+
+Epoch: 72
+train acc 93.262
+ test acc 90.120
+
+Epoch: 73
+train acc 93.636
+ test acc 89.810
+
+Epoch: 74
+train acc 93.054
+ test acc 89.980
+
+Epoch: 75
+train acc 93.372
+ test acc 90.290
+Saving..
+
+Epoch: 76
+train acc 93.270
+ test acc 89.550
+
+Epoch: 77
+train acc 93.392
+ test acc 89.940
+
+Epoch: 78
+train acc 93.472
+ test acc 90.030
+
+Epoch: 79
+train acc 93.298
+ test acc 89.750
+
+Epoch: 80
+train acc 93.218
+ test acc 89.700
+
+Epoch: 81
+train acc 93.458
+ test acc 89.680
+
+Epoch: 82
+train acc 93.678
+ test acc 89.980
+
+Epoch: 83
+train acc 93.396
+ test acc 89.900
+
+Epoch: 84
+train acc 93.540
+ test acc 90.050
+
+Epoch: 85
+train acc 93.350
+ test acc 89.500
+
+Epoch: 86
+train acc 93.368
+ test acc 90.350
+Saving..
+
+Epoch: 87
+train acc 93.832
+ test acc 90.100
+
+Epoch: 88
+train acc 93.554
+ test acc 89.890
+
+Epoch: 89
+train acc 93.872
+ test acc 89.960
+
+Epoch: 90
+train acc 93.550
+ test acc 90.510
+Saving..
+
+Epoch: 91
+train acc 93.850
+ test acc 89.670
+
+Epoch: 92
+train acc 93.452
+ test acc 90.110
+
+Epoch: 93
+train acc 93.612
+ test acc 89.940
+
+Epoch: 94
+train acc 93.856
+ test acc 90.420
+
+Epoch: 95
+train acc 93.788
+ test acc 89.950
+
+Epoch: 96
+train acc 93.670
+ test acc 90.780
+Saving..
+
+Epoch: 97
+train acc 93.688
+ test acc 90.690
+
+Epoch: 98
+train acc 93.766
+ test acc 90.160
+
+Epoch: 99
+train acc 93.858
+ test acc 90.380
+
+Epoch: 100
+train acc 93.900
+ test acc 90.190
+
+Epoch: 101
+train acc 93.874
+ test acc 90.190
+
+Epoch: 102
+train acc 93.726
+ test acc 90.060
+
+Epoch: 103
+train acc 93.958
+ test acc 90.730
+
+Epoch: 104
+train acc 93.782
+ test acc 90.780
+
+Epoch: 105
+train acc 93.864
+ test acc 90.520
+
+Epoch: 106
+train acc 93.632
+ test acc 90.270
+
+Epoch: 107
+train acc 93.950
+ test acc 90.320
+
+Epoch: 108
+train acc 94.034
+ test acc 90.300
+
+Epoch: 109
+train acc 93.632
+ test acc 89.980
+
+Epoch: 110
+train acc 93.968
+ test acc 90.200
+
+Epoch: 111
+train acc 93.926
+ test acc 90.180
+
+Epoch: 112
+train acc 93.776
+ test acc 89.030
+
+Epoch: 113
+train acc 93.902
+ test acc 90.930
+Saving..
+
+Epoch: 114
+train acc 94.236
+ test acc 89.530
+
+Epoch: 115
+train acc 93.896
+ test acc 90.280
+
+Epoch: 116
+train acc 93.962
+ test acc 90.620
+
+Epoch: 117
+train acc 94.176
+ test acc 90.470
+
+Epoch: 118
+train acc 94.098
+ test acc 90.180
+
+Epoch: 119
+train acc 93.880
+ test acc 90.560
+
+Epoch: 120
+train acc 93.966
+ test acc 89.860
+
+Epoch: 121
+train acc 94.052
+ test acc 90.360
+
+Epoch: 122
+train acc 94.130
+ test acc 90.770
+
+Epoch: 123
+train acc 94.180
+ test acc 90.240
+
+Epoch: 124
+train acc 94.032
+ test acc 89.430
+
+Epoch: 125
+train acc 93.850
+ test acc 90.420
+
+Epoch: 126
+train acc 94.094
+ test acc 90.370
+
+Epoch: 127
+train acc 94.218
+ test acc 90.060
+
+Epoch: 128
+train acc 94.234
+ test acc 90.080
+
+Epoch: 129
+train acc 94.204
+ test acc 90.520
+
+Epoch: 130
+train acc 94.328
+ test acc 90.030
+
+Epoch: 131
+train acc 93.994
+ test acc 90.650
+
+Epoch: 132
+train acc 94.294
+ test acc 89.940
+
+Epoch: 133
+train acc 94.258
+ test acc 90.350
+
+Epoch: 134
+train acc 94.342
+ test acc 90.150
+
+Epoch: 135
+train acc 94.190
+ test acc 90.930
+
+Epoch: 136
+train acc 94.502
+ test acc 91.060
+Saving..
+
+Epoch: 137
+train acc 94.216
+ test acc 89.860
+
+Epoch: 138
+train acc 93.930
+ test acc 90.490
+
+Epoch: 139
+train acc 94.450
+ test acc 90.200
+
+Epoch: 140
+train acc 94.392
+ test acc 90.530
+
+Epoch: 141
+train acc 94.236
+ test acc 90.120
+
+Epoch: 142
+train acc 94.464
+ test acc 90.110
+
+Epoch: 143
+train acc 94.264
+ test acc 89.650
+
+Epoch: 144
+train acc 94.166
+ test acc 90.320
+
+Epoch: 145
+train acc 94.044
+ test acc 90.120
+
+Epoch: 146
+train acc 94.020
+ test acc 90.090
+
+Epoch: 147
+train acc 94.038
+ test acc 90.540
+
+Epoch: 148
+train acc 94.324
+ test acc 89.790
+
+Epoch: 149
+train acc 94.438
+ test acc 90.580
+
+Epoch: 150
+train acc 96.356
+ test acc 92.380
+Saving..
+
+Epoch: 151
+train acc 97.414
+ test acc 92.940
+Saving..
+
+Epoch: 152
+train acc 97.872
+ test acc 92.920
+
+Epoch: 153
+train acc 98.108
+ test acc 93.140
+Saving..
+
+Epoch: 154
+train acc 98.314
+ test acc 93.140
+
+Epoch: 155
+train acc 98.488
+ test acc 93.380
+Saving..
+
+Epoch: 156
+train acc 98.340
+ test acc 93.300
+
+Epoch: 157
+train acc 98.620
+ test acc 93.420
+Saving..
+
+Epoch: 158
+train acc 98.654
+ test acc 93.500
+Saving..
+
+Epoch: 159
+train acc 98.762
+ test acc 93.380
+
+Epoch: 160
+train acc 98.908
+ test acc 93.420
+
+Epoch: 161
+train acc 98.854
+ test acc 93.450
+
+Epoch: 162
+train acc 98.924
+ test acc 93.290
+
+Epoch: 163
+train acc 99.008
+ test acc 93.270
+
+Epoch: 164
+train acc 99.106
+ test acc 93.260
+
+Epoch: 165
+train acc 99.110
+ test acc 93.250
+
+Epoch: 166
+train acc 99.176
+ test acc 93.350
+
+Epoch: 167
+train acc 99.220
+ test acc 93.390
+
+Epoch: 168
+train acc 99.180
+ test acc 93.370
+
+Epoch: 169
+train acc 99.250
+ test acc 93.270
+
+Epoch: 170
+train acc 99.374
+ test acc 93.380
+
+Epoch: 171
+train acc 99.312
+ test acc 93.250
+
+Epoch: 172
+train acc 99.288
+ test acc 93.300
+
+Epoch: 173
+train acc 99.326
+ test acc 93.340
+
+Epoch: 174
+train acc 99.372
+ test acc 93.410
+
+Epoch: 175
+train acc 99.388
+ test acc 93.420
+
+Epoch: 176
+train acc 99.396
+ test acc 93.390
+
+Epoch: 177
+train acc 99.418
+ test acc 93.400
+
+Epoch: 178
+train acc 99.442
+ test acc 93.610
+Saving..
+
+Epoch: 179
+train acc 99.486
+ test acc 93.480
+
+Epoch: 180
+train acc 99.486
+ test acc 93.500
+
+Epoch: 181
+train acc 99.490
+ test acc 93.290
+
+Epoch: 182
+train acc 99.432
+ test acc 93.390
+
+Epoch: 183
+train acc 99.490
+ test acc 93.330
+
+Epoch: 184
+train acc 99.514
+ test acc 93.330
+
+Epoch: 185
+train acc 99.478
+ test acc 93.320
+
+Epoch: 186
+train acc 99.518
+ test acc 93.320
+
+Epoch: 187
+train acc 99.496
+ test acc 93.170
+
+Epoch: 188
+train acc 99.580
+ test acc 93.150
+
+Epoch: 189
+train acc 99.568
+ test acc 93.100
+
+Epoch: 190
+train acc 99.566
+ test acc 93.370
+
+Epoch: 191
+train acc 99.536
+ test acc 93.080
+
+Epoch: 192
+train acc 99.540
+ test acc 93.240
+
+Epoch: 193
+train acc 99.598
+ test acc 93.160
+
+Epoch: 194
+train acc 99.608
+ test acc 93.100
+
+Epoch: 195
+train acc 99.610
+ test acc 93.250
+
+Epoch: 196
+train acc 99.574
+ test acc 93.310
+
+Epoch: 197
+train acc 99.546
+ test acc 93.190
+
+Epoch: 198
+train acc 99.628
+ test acc 93.440
+
+Epoch: 199
+train acc 99.608
+ test acc 93.130

@@ -1,0 +1,7 @@
+data
+checkpoint
+curve/*
+!curve/pretrained
+.idea
+
+main.sh
